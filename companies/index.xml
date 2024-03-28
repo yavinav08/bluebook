@@ -11,20 +11,145 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yavinav08.github.io/bluebook/companies/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AQR</title>
-      <link>https://yavinav08.github.io/bluebook/companies/aqr/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yavinav08.github.io/bluebook/companies/aqr/</guid>
+      <title>AQR Capital</title>
+      <link>https://yavinav08.github.io/bluebook/companies/aqr-capital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/aqr-capital/</guid>
       <description></description>
     </item>
     <item>
-      <title>Zepto</title>
-      <link>https://yavinav08.github.io/bluebook/companies/zepto/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yavinav08.github.io/bluebook/companies/zepto/</guid>
+      <title>Axtria</title>
+      <link>https://yavinav08.github.io/bluebook/companies/axtria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/axtria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Axxela</title>
+      <link>https://yavinav08.github.io/bluebook/companies/axxela/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/axxela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bajaj Auto Ltd</title>
+      <link>https://yavinav08.github.io/bluebook/companies/bajaj-auto-ltd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/bajaj-auto-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bank Of America</title>
+      <link>https://yavinav08.github.io/bluebook/companies/bank-of-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/bank-of-america/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exide Energy solution limited</title>
+      <link>https://yavinav08.github.io/bluebook/companies/exide-energy-solution-limited/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/exide-energy-solution-limited/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>https://yavinav08.github.io/bluebook/companies/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HPCL</title>
+      <link>https://yavinav08.github.io/bluebook/companies/hpcl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/hpcl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jindal Stainless Ltd</title>
+      <link>https://yavinav08.github.io/bluebook/companies/jindal-stainless-ltd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/jindal-stainless-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Juniper Networks</title>
+      <link>https://yavinav08.github.io/bluebook/companies/juniper-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/juniper-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Larsen &amp; Toubro</title>
+      <link>https://yavinav08.github.io/bluebook/companies/larsen-toubro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/larsen-toubro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media.net</title>
+      <link>https://yavinav08.github.io/bluebook/companies/media.net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/media.net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micron</title>
+      <link>https://yavinav08.github.io/bluebook/companies/micron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/micron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>https://yavinav08.github.io/bluebook/companies/microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narayana</title>
+      <link>https://yavinav08.github.io/bluebook/companies/narayana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/narayana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netradyne</title>
+      <link>https://yavinav08.github.io/bluebook/companies/netradyne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/netradyne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Piramal Housing Finance</title>
+      <link>https://yavinav08.github.io/bluebook/companies/piramal-housing-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/piramal-housing-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qualcomm</title>
+      <link>https://yavinav08.github.io/bluebook/companies/qualcomm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/qualcomm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspa Pharma</title>
+      <link>https://yavinav08.github.io/bluebook/companies/raspa-pharma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/raspa-pharma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VVF India</title>
+      <link>https://yavinav08.github.io/bluebook/companies/vvf-india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/companies/vvf-india/</guid>
       <description></description>
     </item>
   </channel>

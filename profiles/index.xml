@@ -11,20 +11,89 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yavinav08.github.io/bluebook/profiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quant</title>
-      <link>https://yavinav08.github.io/bluebook/profiles/quant/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yavinav08.github.io/bluebook/profiles/quant/</guid>
+      <title>Analyst</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/analyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/analyst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biotechnology core</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/biotechnology-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/biotechnology-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chemical Core</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/chemical-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/chemical-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Civil Core</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/civil-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/civil-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electrical Core</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/electrical-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/electrical-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechanical Core</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/mechanical-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/mechanical-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Management</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/product-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/product-management/</guid>
       <description></description>
     </item>
     <item>
       <title>SDE</title>
       <link>https://yavinav08.github.io/bluebook/profiles/sde/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yavinav08.github.io/bluebook/profiles/sde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>systems engineer</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/systems-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/systems-engineer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://yavinav08.github.io/bluebook/profiles/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/profiles/teaching/</guid>
       <description></description>
     </item>
   </channel>
