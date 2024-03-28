@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meesho (SDE), Navi (BA), Accenture Japan (Digital Consultant), Deutche Bank, Tiger Analytics on Bluebook</title>
+    <link>http://localhost:1313/bluebook/companies/meesho-sde-navi-ba-accenture-japan-digital-consultant-deutche-bank-tiger-analytics/</link>
+    <description>Recent content in Meesho (SDE), Navi (BA), Accenture Japan (Digital Consultant), Deutche Bank, Tiger Analytics on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>http://localhost:1313/bluebook/images/papermod-cover.png</url>
+      <link>http://localhost:1313/bluebook/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/bluebook/companies/meesho-sde-navi-ba-accenture-japan-digital-consultant-deutche-bank-tiger-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESHU PATEL 200107026 - Meesho (SDE), Navi (BA), Accenture Japan (Digital Consultant), Deutche Bank, Tiger Analytics</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/11/</guid>
+      <description>Read about my interview experience at Meesho (SDE), Navi (BA), Accenture Japan (Digital Consultant), Deutche Bank, Tiger Analytics</description>
+    </item>
+  </channel>
+</rss>

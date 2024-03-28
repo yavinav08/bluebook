@@ -2,30 +2,162 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bluebook</title>
-    <link>http://localhost:1313/bluebook_iitg/responses/bluebook/</link>
+    <link>http://localhost:1313/bluebook/responses/bluebook/</link>
     <description>Recent content on Bluebook</description>
     <image>
       <title>Bluebook</title>
-      <url>http://localhost:1313/bluebook_iitg/images/papermod-cover.png</url>
-      <link>http://localhost:1313/bluebook_iitg/images/papermod-cover.png</link>
+      <url>http://localhost:1313/bluebook/images/papermod-cover.png</url>
+      <link>http://localhost:1313/bluebook/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/bluebook_iitg/responses/bluebook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bluebook/responses/bluebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Avinav Yadav - AQR Capital</title>
-      <link>http://localhost:1313/bluebook_iitg/responses/bluebook/avinavyadav_aqr/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bluebook_iitg/responses/bluebook/avinavyadav_aqr/</guid>
+      <title>Advaith Krishna A - Media.net</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/6/</guid>
+      <description>Read about my interview experience at Media.net</description>
+    </item>
+    <item>
+      <title>Amay Singh - Axxela</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/8/</guid>
+      <description>Read about my interview experience at Axxela</description>
+    </item>
+    <item>
+      <title>Aniket Das - Jindal Stainless Ltd</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/23/</guid>
+      <description>Read about my interview experience at Jindal Stainless Ltd</description>
+    </item>
+    <item>
+      <title>Ankit Rajput - Axtria</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/4/</guid>
+      <description>Read about my interview experience at Axtria</description>
+    </item>
+    <item>
+      <title>Atharva Mathapati - HPCL</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/18/</guid>
+      <description>Read about my interview experience at HPCL</description>
+    </item>
+    <item>
+      <title>Ayush Tiwari - VVF India</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/12/</guid>
+      <description>Read about my interview experience at VVF India</description>
+    </item>
+    <item>
+      <title>Debarpan Jana - Netradyne</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/17/</guid>
+      <description>Read about my interview experience at Netradyne</description>
+    </item>
+    <item>
+      <title>Dibyendu Dey - Google</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/25/</guid>
+      <description>Read about my interview experience at Google</description>
+    </item>
+    <item>
+      <title>Koppula Ajay Kumar Reddy - Juniper Networks</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/9/</guid>
+      <description>Read about my interview experience at Juniper Networks</description>
+    </item>
+    <item>
+      <title>Prasad Shamrao Deshpande - Bajaj Auto Ltd</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/2/</guid>
+      <description>Read about my interview experience at Bajaj Auto Ltd</description>
+    </item>
+    <item>
+      <title>Priyanshu Kumar Jaiswal - AQR Capital</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/10/</guid>
       <description>Read about my interview experience at AQR Capital</description>
     </item>
     <item>
-      <title>Vatsal Jain - Zepto</title>
-      <link>http://localhost:1313/bluebook_iitg/responses/bluebook/vatsaljain_zepto/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bluebook_iitg/responses/bluebook/vatsaljain_zepto/</guid>
-      <description>Read about my interview experience at Zepto</description>
+      <title>Priyanshu Kumar Jaiswal - Piramal Housing Finance</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/14/</guid>
+      <description>Read about my interview experience at Piramal Housing Finance</description>
+    </item>
+    <item>
+      <title>Pynda Naga Venkata Sai Vamsi - Micron</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/24/</guid>
+      <description>Read about my interview experience at Micron</description>
+    </item>
+    <item>
+      <title>Rahul Prakashji Baisware - Narayana</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/1/</guid>
+      <description>Read about my interview experience at Narayana</description>
+    </item>
+    <item>
+      <title>Sanya Sharma - Larsen &amp; Toubro</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/5/</guid>
+      <description>Read about my interview experience at Larsen &amp;amp; Toubro</description>
+    </item>
+    <item>
+      <title>Suma Shree Y - Bank Of America</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/16/</guid>
+      <description>Read about my interview experience at Bank Of America</description>
+    </item>
+    <item>
+      <title>Suvadeep Mandal - Exide Energy solution limited</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/22/</guid>
+      <description>Read about my interview experience at Exide Energy solution limited</description>
+    </item>
+    <item>
+      <title>Taraka Sriram Konda - Micron</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/21/</guid>
+      <description>Read about my interview experience at Micron</description>
+    </item>
+    <item>
+      <title>Trisha - Microsoft</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/3/</guid>
+      <description>Read about my interview experience at Microsoft</description>
+    </item>
+    <item>
+      <title>Vilas Rao Shinde - Raspa Pharma</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/15/</guid>
+      <description>Read about my interview experience at Raspa Pharma</description>
+    </item>
+    <item>
+      <title>VUDATHA VENKATA NARENDRA - Qualcomm</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/26/</guid>
+      <description>Read about my interview experience at Qualcomm</description>
     </item>
   </channel>
 </rss>

@@ -2,29 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Profiles on Bluebook</title>
-    <link>http://localhost:1313/bluebook_iitg/profiles/</link>
+    <link>http://localhost:1313/bluebook/profiles/</link>
     <description>Recent content in Profiles on Bluebook</description>
     <image>
       <title>Bluebook</title>
-      <url>http://localhost:1313/bluebook_iitg/images/papermod-cover.png</url>
-      <link>http://localhost:1313/bluebook_iitg/images/papermod-cover.png</link>
+      <url>http://localhost:1313/bluebook/images/papermod-cover.png</url>
+      <link>http://localhost:1313/bluebook/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/bluebook_iitg/profiles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bluebook/profiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quant</title>
-      <link>http://localhost:1313/bluebook_iitg/profiles/quant/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bluebook_iitg/profiles/quant/</guid>
+      <title>Analyst</title>
+      <link>http://localhost:1313/bluebook/profiles/analyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/analyst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biotechnology Core</title>
+      <link>http://localhost:1313/bluebook/profiles/biotechnology-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/biotechnology-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chemical Core</title>
+      <link>http://localhost:1313/bluebook/profiles/chemical-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/chemical-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Civil Core</title>
+      <link>http://localhost:1313/bluebook/profiles/civil-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/civil-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electrical Core</title>
+      <link>http://localhost:1313/bluebook/profiles/electrical-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/electrical-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>http://localhost:1313/bluebook/profiles/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechanical Core</title>
+      <link>http://localhost:1313/bluebook/profiles/mechanical-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/mechanical-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/bluebook/profiles/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Management</title>
+      <link>http://localhost:1313/bluebook/profiles/product-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/product-management/</guid>
       <description></description>
     </item>
     <item>
       <title>SDE</title>
-      <link>http://localhost:1313/bluebook_iitg/profiles/sde/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bluebook_iitg/profiles/sde/</guid>
+      <link>http://localhost:1313/bluebook/profiles/sde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/sde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems Engineer</title>
+      <link>http://localhost:1313/bluebook/profiles/systems-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/systems-engineer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/bluebook/profiles/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/profiles/teaching/</guid>
       <description></description>
     </item>
   </channel>

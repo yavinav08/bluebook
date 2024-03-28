@@ -2,55 +2,136 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/bluebook_iitg/responses/bluebook/avinavyadav_aqr/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/6/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/responses/bluebook/vatsaljain_zepto/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/8/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/companies/aqr/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/23/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/4/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/responses/bluebook/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/18/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/companies/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/12/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/series/papermod/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/17/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/profiles/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/25/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/profiles/quant/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/9/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/responses/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/profiles/sde/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/10/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/series/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/14/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/companies/zepto/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/24/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/archives.fr/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/archives/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/5/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/categories/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/16/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/search/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/22/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/search.fr/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/21/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook_iitg/tags/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/26/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/analyst/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/aqr-capital/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/archives.fr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/axtria/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/axxela/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/bajaj-auto-ltd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/bank-of-america/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/biotechnology-core/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/chemical-core/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/civil-core/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/electrical-core/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/exide-energy-solution-limited/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/google/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/hardware/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/hpcl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/jindal-stainless-ltd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/juniper-networks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/larsen--toubro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/mechanical-core/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/media.net/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/micron/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/microsoft/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/ml/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/narayana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/netradyne/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/series/papermod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/piramal-housing-finance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/product-management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/qualcomm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/raspa-pharma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/sde/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/search.fr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/systems-engineer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/vvf-india/</loc>
   </url>
 </urlset>

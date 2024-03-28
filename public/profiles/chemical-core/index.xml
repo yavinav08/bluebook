@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chemical Core on Bluebook</title>
+    <link>http://localhost:1313/bluebook/profiles/chemical-core/</link>
+    <description>Recent content in Chemical Core on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>http://localhost:1313/bluebook/images/papermod-cover.png</url>
+      <link>http://localhost:1313/bluebook/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/bluebook/profiles/chemical-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atharva Mathapati - HPCL</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/18/</guid>
+      <description>Read about my interview experience at HPCL</description>
+    </item>
+    <item>
+      <title>Sanya Sharma - Larsen &amp; Toubro</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/5/</guid>
+      <description>Read about my interview experience at Larsen &amp;amp; Toubro</description>
+    </item>
+  </channel>
+</rss>
