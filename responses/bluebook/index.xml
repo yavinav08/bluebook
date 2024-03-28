@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bluebook</title>
+    <link>https://yavinav08.github.io/bluebook/responses/bluebook/</link>
+    <description>Recent content on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>https://yavinav08.github.io/bluebook/images/papermod-cover.png</url>
+      <link>https://yavinav08.github.io/bluebook/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yavinav08.github.io/bluebook/responses/bluebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avinav Yadav - AQR Capital</title>
+      <link>https://yavinav08.github.io/bluebook/responses/bluebook/avinavyadav_aqr/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/responses/bluebook/avinavyadav_aqr/</guid>
+      <description>Read about my interview experience at AQR Capital</description>
+    </item>
+    <item>
+      <title>Vatsal Jain - Zepto</title>
+      <link>https://yavinav08.github.io/bluebook/responses/bluebook/vatsaljain_zepto/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://yavinav08.github.io/bluebook/responses/bluebook/vatsaljain_zepto/</guid>
+      <description>Read about my interview experience at Zepto</description>
+    </item>
+  </channel>
+</rss>

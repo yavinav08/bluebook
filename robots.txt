@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yavinav08.github.io/bluebook/sitemap.xml
