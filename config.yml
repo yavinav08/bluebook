@@ -56,7 +56,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "Bluebook - IITG"
   author: Created by Avinav Yadav
   # author: ["Me", "You"] # multiple authors
 
